@@ -23,6 +23,7 @@ y = 1,5918x + 28,626 image Можно ли выдать кредит Цель: �
 
 y = 1,5918x + 28,626 
 image![2](https://user-images.githubusercontent.com/112688317/202251799-bc9a5ba8-27f8-4d44-9bb1-8ab93a8de8bf.png)
+![22](https://user-images.githubusercontent.com/112688317/202253005-e9569ef6-68ce-493e-b57c-269ef6f4e29f.png)
 ![Uploading 22.png…]()
 ![44](https://user-images.githubusercontent.com/112688317/202251876-f9a0809b-b626-4ca2-ba82-29611f769cca.png)
 ![55](https://user-images.githubusercontent.com/112688317/202251886-2ba4ed2d-608b-4649-b6c7-14c73201ca91.png)
