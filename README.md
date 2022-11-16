@@ -22,8 +22,7 @@ https://colab.research.google.com/drive/1ji4VL1lckwSylE7ZL1L1xWb5hbhEQLaa?usp=sh
 y = 1,5918x + 28,626 image Можно ли выдать кредит Цель: отдаст ли новый клиент кредит? Дано: место работы, зарплата
 
 y = 1,5918x + 28,626 
-image![2]
-(https://user-images.githubusercontent.com/112688317/202251799-bc9a5ba8-27f8-4d44-9bb1-8ab93a8de8bf.png)
+image![2](https://user-images.githubusercontent.com/112688317/202251799-bc9a5ba8-27f8-4d44-9bb1-8ab93a8de8bf.png)
 ![Uploading 22.png…]()
 ![44](https://user-images.githubusercontent.com/112688317/202251876-f9a0809b-b626-4ca2-ba82-29611f769cca.png)
 ![55](https://user-images.githubusercontent.com/112688317/202251886-2ba4ed2d-608b-4649-b6c7-14c73201ca91.png)
